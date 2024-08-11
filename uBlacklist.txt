@@ -29,7 +29,6 @@
 *://hito-shira.com/*
 *://ranking.goo.ne.jp/*
 *://tacklenote.com/*
-*://www.yahoo.co.jp/*
 *://newmatoan.com/*
 *://newmofu.doorblog.jp/*
 *://moudamepo.com/*
@@ -66,7 +65,6 @@
 *://alive-life.jp/*
 *://allabout.co.jp/*
 *://allof-love.com/*
-*://ameblo.jp/*
 *://ananweb.jp/*
 *://and-plus.net/*
 *://antenna.jp/*
@@ -655,7 +653,6 @@
 *://www.weddingpark.net/*
 *://www.workport.co.jp/*
 *://www.xn--w8j2a7cv32xiqdyzf.com/*
-*://www.yahoo.co.jp/*
 *://www.zwei.com/*
 *://xn--ab-bu8c.xyz/*
 *://xn--m1q29bh7cv7etyjht3e70s.com/*
@@ -1012,3 +1009,9 @@
 *://uranai.callat.jp/*
 *://papa-smart.com/*
 *://game8.jp/*
+*://hiroko310.com/*
+*://cocolo-ent.co.jp/*
+*://kotobasta.com/*
+*://purogirls.com/*
+*://www.sugotoku.docomo.ne.jp/*
+*://nanjpride.blog.jp/*
